@@ -24,4 +24,4 @@ Actively working on real-world projects to strengthen analytical thinking and bu
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Faisal-Ghub&theme=dark)
+
