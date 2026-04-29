@@ -11,7 +11,7 @@ Experienced in data cleaning, exploratory data analysis, and building dashboards
 Actively working on real-world projects to strengthen analytical thinking and business problem-solving skills.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://tinyurl.com/Faisal-P0rtfolio)
+* 🖥️  See my portfolio at [MyPortfolio]([http://tinyurl.com/Faisal-P0rtfolio](https://drive.google.com/file/d/1uotQ78m2CI4shD9rX8a0G9iBLYwF2L5B/view?usp=sharing))
 * ✉️  You can contact me at [faisalkhan.dataa@gmail.com](mailto:faisalkhan.dataa@gmail.com)
 
 <p align="left">
