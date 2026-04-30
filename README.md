@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 Data Analytics Enthusiast | Turning Data into Business Insights
-----------------------------------------------------------------
+---------------------------------------------------------------- 
 
 Data analytics aspirant with a strong foundation in Python, SQL, and data visualization.
 
