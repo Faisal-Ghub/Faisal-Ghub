@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Faisal Khan
 ====================================================================================================================================
 
-Data Analytics Enthusiast | Turning Data into Business Insights
+Data Analytics Enthusiast | Turning Data into Business Insights.
 ---------------------------------------------------------------- 
 
 Data analyst with a strong foundation in Python, SQL, and data visualization.
