@@ -10,7 +10,7 @@ Experienced in data cleaning, exploratory data analysis, and building dashboards
 
 Actively working on real-world projects to strengthen analytical thinking and business problem-solving skills.
 
-* 🌍  I'm based in Indi
+* 🌍  I'm based in India
 * ✉️  You can contact me at [faisalkhan.dataa@gmail.com](mailto:faisalkhan.dataa@gmail.com)
 
 <p align="left">
